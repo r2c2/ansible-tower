@@ -1,6 +1,6 @@
 ---
 - name: Deploy Load Balance
-  hosts: serverb.lab.example.com
+  hosts: serverl.lab.example.com
   tasks:
     - name: Install Load Balance
       yum:
