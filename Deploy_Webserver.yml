@@ -1,6 +1,6 @@
 ---
 - name: Deploy Web Server
-  hosts: servera.lab.example.com
+  hosts: serverk.lab.example.com
   tasks:
     - name: Install Web Server
       yum:
