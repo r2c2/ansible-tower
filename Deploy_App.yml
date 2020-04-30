@@ -1,6 +1,6 @@
 ---
 - name: Deploy App
-  hosts: servera.lab.example.com
+  hosts: serverk.lab.example.com
   tasks:
     - name: Deploy app 
       copy:
